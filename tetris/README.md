@@ -1,6 +1,6 @@
 # Tetris in Python
 
-![Tetris in Python](tetris_screenshot.png)
+---
 
 ## Project Description
 
@@ -24,14 +24,20 @@ Welcome to the exciting world of Tetris in Python! This project was created with
 
 - Python 3.x
 
+---
+
 ## Credits
 
 - **Juan Eduardo Gomez**
   - LinkedIn: [Juan Eduardo Gomez](https://www.linkedin.com/in/juan-eduardo-gomez-valencia-a42b3a271/)
   - GitHub: [jegomezV](https://github.com/jegomezV)
 
+---
+
 ## Contributions
 
 Feel free to contribute to this project! Open an issue or submit a pull request on GitHub.
+
+---
 
 Have fun playing Tetris in Python, and thank you for being a part of this project!

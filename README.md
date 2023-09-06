@@ -13,11 +13,6 @@ We've curated a diverse set of programming challenges, ranging from easy to hard
 
 - Data Structures
 - Algorithms
-- Dynamic Programming
-- Math
-- Strings
-- Sorting
-- Searching
 - And more!
 
 Feel free to explore the challenges in the [Challenges](/Challenges) directory.
