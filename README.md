@@ -22,9 +22,16 @@ We've curated a diverse set of programming challenges, ranging from easy to hard
 
 Feel free to explore the challenges in the [Challenges](/Challenges) directory.
 
+
 ## Getting Started
 
 1. Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/jegomezV/Challenges.git
+
+## Credits
+
+- **Juan Eduardo Gomez**
+  - LinkedIn: [Juan Eduardo Gomez](https://www.linkedin.com/in/juan-eduardo-gomez-valencia-a42b3a271/)
+  - GitHub: [jegomezV](https://github.com/jegomezV)
