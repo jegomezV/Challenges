@@ -1,6 +1,6 @@
 # Roman Numeral to Decimal Converter
 
-![Roman Numeral to Decimal Converter]()
+![Roman Numeral to Decimal Converter](https://github.com/jegomezV/Challenges/blob/master/images/romans.png?raw=true)
 
 Welcome to the Roman Numeral to Decimal Converter project in Python! This script allows you to convert Roman numerals into their corresponding decimal values.
 
