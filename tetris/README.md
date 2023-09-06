@@ -1,6 +1,6 @@
 # Tetris in Python
 
-![Tetris in Python](/images/tetris_picture.png)
+![Tetris in Python](https://github.com/jegomezV/Challenges/blob/master/images/tetris_picture.png?raw=true)
 
 ---
 
