@@ -1,5 +1,7 @@
 # Tetris in Python
 
+![Tetris in Python](/images/tetris_picture.png)
+
 ---
 
 ## Project Description
