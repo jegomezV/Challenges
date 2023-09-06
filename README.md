@@ -27,4 +27,4 @@ Feel free to explore the challenges in the [Challenges](/Challenges) directory.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/programming-challenges.git
+   git clone https://github.com/jegomezV/Challenges.git
