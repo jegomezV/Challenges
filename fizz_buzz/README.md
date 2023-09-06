@@ -1,6 +1,6 @@
 # Fizz Buzz in Python
 
-![Fizz_Buzz in Python]()
+![Fizz_Buzz in Python](https://github.com/jegomezV/Challenges/blob/master/images/fizz_buzz.png?raw=true)
 
 Welcome to my Fizz Buzz project in Python! My name is Juan Eduardo Gomez, and I'm excited to share this project with you. Here you'll find a simple and elegant implementation of the famous Fizz Buzz game in Python.
 
