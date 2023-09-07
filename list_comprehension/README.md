@@ -2,8 +2,8 @@
 
 ![List_comprehension in Python](https://github.com/jegomezV/Challenges/blob/master/images/list.png?raw=true)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/Python-5.x-blue)
+![Challenges](https://img.shields.io/badge/Challenges-5-brightgreen.svg)
 
 Welcome to the List Comprehensions Practice Repository! In this project, you'll find various exercises and examples to help you master list comprehensions in Python. List comprehensions are a concise and powerful way to work with lists and other iterable data structures.
 
