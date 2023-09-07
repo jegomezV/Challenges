@@ -4,6 +4,16 @@ Exercise to practice List comprehension.
 
 This script defines a function, dict_create, which takes two lists of cities and temperatures
 and creates a dictionary that maps each city to its corresponding temperature.
+
+¬ - - - - - - - - - - - - - - - - - - - - - - ¬
+| This is the code we saved ourselves:        |
+|                                             |
+| city_temperature_dict = {}                  |
+|     for i in range(len(cities)):            |
+|         city = cities[i]                    |
+|         temp = temperatures[i]              |
+|         city_temperature_dict[city] = temp  |
+¬ - - - - - - - - - - - - - - - - - - - - - - ¬
 """
 
 # List of cities
