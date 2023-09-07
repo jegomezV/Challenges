@@ -7,41 +7,43 @@ This script defines a function, dict_create, which takes a list of numbers and c
 ¬ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¬
 | This is the code we saved ourselves:                                   |
 |                                                                        |
-|  result_dict = {}                                                      |
+|  def dict_create():                                                    |
+|    result_dict = {}                                                    |
 |                                                                        |
-|    # Iterate through the list of random numbers                        |
-|    for num in list_random_nums:                                        |
-|        # Determine if the number is even or odd                        |
+|    random_nums = [random.randint(0, 100) for _ in range(10)]           |
+|                                                                        |
+|    for num in random_nums:                                             |
 |        if num % 2 == 0:                                                |
-|            result_dict[num] = "even"  # If even, add to the dictionary |
-|            with "par" as the value                                     |
+|            result_dict[num] = "even"                                   |
 |        else:                                                           |
-|            result_dict[num] = "odd"  # If odd, add to the dictionary   |
-|            with "impar" as the value                                   |
+|            result_dict[num] = "odd"                                    |
 |                                                                        |
-|    # Return the resulting dictionary                                   |
-|    return result_dict                                                  |
+|    print(result_dict)                                                  |
+|                                                                        |
+|dict_create()                                                           |
 ¬ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¬
 """
 # Import the random module to generate random numbers
 import random
 
-# Set the length of the list
-list_length = 10
-
-# Define the minimum and maximum values for random number generation
-min_value = 0
-max_value = 100
-
-# Generate a list of random numbers using a list comprehension
-list_random_nums = [random.randint(min_value, max_value) for _ in range(list_length)]
-
 # Define a function called dict_create that takes a list of numbers as input
-def dict_create(list_random_nums) -> dict:
-    # Create a dictionary using a dictionary comprehension
-    # The keys are the numbers from list_random_nums
-    # The values are "even" (even) or "odd" (odd) based on a conditional expression
-    return print({num: "even" if num % 2 == 0 else "odd" for num in list_random_nums})
+def dict_create():
+    # Create an empty dictionary
+    result_dict = {}
 
-# Call the dict_create function with the list of random numbers as an argument
-dict_create(list_random_nums)
+    # Generate a list of 10 random numbers
+    random_nums = [random.randint(0, 100) for _ in range(10)]
+
+    # Loop through the random numbers
+    for num in random_nums:
+        # Check if the number is even or odd and add it to the dictionary
+        if num % 2 == 0:
+            result_dict[num] = "even"
+        else:
+            result_dict[num] = "odd"
+    
+    # Print the resulting dictionary
+    print(result_dict)
+
+# Call the dict_create function
+dict_create()
