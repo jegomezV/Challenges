@@ -29,6 +29,7 @@ def tetris():
     for _ in range(3):
         screen = move_piece(screen, Movement.DOWN)
 
+
 # Función para imprimir la pantalla del juego
 def print_screen(screen: list):
     print("\nPantalla Tetris:\n")
@@ -54,7 +55,7 @@ def move_piece(screen: list, movement: Movement):
                 elif movement == Movement.ROTATE:
                     # Agregar rotación de pieza
                     pass
-                    
+
                 if 0 <= new_row_index < 10 and 0 <= new_column_index < 10:
                     new_screen[new_row_index][new_column_index] = "🔳"
 

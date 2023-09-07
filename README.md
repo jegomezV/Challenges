@@ -2,7 +2,7 @@
 
 ![Tetris in Python](https://github.com/jegomezV/Challenges/blob/master/images/challenge_picture.png?raw=true)
 
-![Challenges](https://img.shields.io/badge/Challenges-1-brightgreen.svg)
+![Challenges](https://img.shields.io/badge/Challenges-3-brightgreen.svg)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy%20to%20Normal-orange.svg)
 

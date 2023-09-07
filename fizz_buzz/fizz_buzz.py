@@ -5,13 +5,13 @@
 for num in range(1, 101):
     # Comprobamos si el número es divisible por 3 y 5
     if num % 3 == 0 and num % 5 == 0:
-        print("FizzBuzz")
+        print("FizzBuzz", end="")
     # Comprobamos si el número es divisible por 3
     elif num % 3 == 0:
-        print("Fizz")
+        print("Fizz", end="")
     # Comprobamos si el número es divisible por 5
     elif num % 5 == 0:
-        print("Buzz")
+        print("Buzz", end="")
     # Si no es divisible ni por 3 ni por 5, imprimimos el número
     else:
         print(num)
