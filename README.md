@@ -4,7 +4,7 @@
 
 ![Challenges](https://img.shields.io/badge/Challenges-5-brightgreen.svg)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy%20to%20Normal-orange.svg)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy%20to%20Hard-orange.svg)
 
 Welcome to the Programming Challenges Repository! This repository is a collection of programming challenges designed to help you enhance your coding skills and problem-solving abilities. Whether you're a beginner looking to improve your coding or an experienced developer sharpening your skills, you'll find challenges suitable for all levels.
 
