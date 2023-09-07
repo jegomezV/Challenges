@@ -2,7 +2,7 @@
 """
 Exercise to practice List comprehension.
 
-This script defines a function, dict_create, which takes a list of words and creates a dictionary that maps each word to its corresponding length.
+This script defines a function, dict_create, which takes a list of numbers and creates a dictionary that maps each number to its parity (even or odd).
 
 ¬ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¬
 | This is the code we saved ourselves:                                   |
@@ -37,7 +37,7 @@ max_value = 100
 list_random_nums = [random.randint(min_value, max_value) for _ in range(list_length)]
 
 # Define a function called dict_create that takes a list of numbers as input
-def dict_create(list_random_nums):
+def dict_create(list_random_nums) -> dict:
     # Create a dictionary using a dictionary comprehension
     # The keys are the numbers from list_random_nums
     # The values are "even" (even) or "odd" (odd) based on a conditional expression

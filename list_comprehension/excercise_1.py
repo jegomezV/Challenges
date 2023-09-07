@@ -21,7 +21,7 @@ This script defines a function, dict_create, which takes a list of words and cre
 list = ["software", "code", "linux"]
 
 # Define a function called dict_create that takes a list as an argument
-def dict_create(list):
+def dict_create(list) -> dict:
     # Use a dictionary comprehension to create a dictionary
     # The key is each word in the list, and the value is the length of the word
     return print({word: len(word) for word in list})
