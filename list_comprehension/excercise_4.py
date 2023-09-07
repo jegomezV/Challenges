@@ -18,6 +18,8 @@ Additional Details:
     This script demonstrates the use of list comprehension to format and display a list of countries with their respective indices. The formatted output consists of a separator line, each country's index, name, and a separator line at the end. The purpose is to showcase how to manipulate and present data in a readable format.
 
 ¬ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -¬
+| This is the code we saved ourselves:                                                         |
+|                                                                                              |
 | print("\n")                                                                                  |
 | print("-----------------------------------------------------------------------------\n")     |
 | print("\n")                                                                                  |
