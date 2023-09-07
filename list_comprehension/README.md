@@ -1,6 +1,6 @@
 # List Comprehensions Practice Repository
 
-![List_comprehension in Python](https://github.com/jegomezV/Challenges/blob/master/images/list_compr.png?raw=true)
+![List_comprehension in Python](https://github.com/jegomezV/Challenges/blob/master/images/list.png?raw=true)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
