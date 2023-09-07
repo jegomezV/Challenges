@@ -7,10 +7,10 @@ This script defines a function, dict_create, which takes a list of words and cre
 ¬ - - - - - - - - - - - - - - - - - - - - - - - - - - -  ¬
 | This is the code we saved ourselves:                   |
 |                                                        |
-|  dict_lenght = {}                                      |
+|  dict_length = {}                                      |
 |    for word in list:                                   |
-|        dict_lenght[word] = len(word)                   |
-|    return dict_lenght                                  |
+|        dict_length[word] = len(word)                   |
+|    return dict_length                                  |
 |                                                        |
 |  result = dict_create(list)                            |
 |  print(result)                                         |
