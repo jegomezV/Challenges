@@ -26,8 +26,5 @@ def dict_create(cities, temperatures) -> dict:
     # Use a dictionary comprehension to create the mapping
     return {city: temp for city, temp in zip(cities, temperatures)}
 
-# Call the function and store the result in a dictionary named "new_dict"
-new_dict = dict_create(cities, temperatures)
-
 # Print the resulting dictionary
-print(new_dict)
+print(dict_create(cities, temperatures))
